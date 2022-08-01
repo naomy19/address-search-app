@@ -1,12 +1,5 @@
-
-
-
 <h1 align="center">
-    <img alt="address_search" title="#address_search" src="./readme-img/logo.png" />
-</h1>
-
-<h1 align="center">
-   📍 <a href="#"> ADDRESS SEARCH APP </a>
+   📍 <a href="#"> ADDRESS SEARCH APP </a> 🗺
 </h1>
 
 <h3 align="center">
@@ -53,9 +46,9 @@ In this project the user is able to find out the address informations through a 
 ## Layout
 
 <p align="center">
-  <img alt="address_search" title="#address_search" src="./readme-img/login.png" width="400">
+  <img alt="address_search" title="#address_search" src="./readme-img/layout-1.png" width="250px">
 
-  <img alt="address_search" title="#address_search" src="./readme-img/redef_senha.png" width="300px">
+  <img alt="address_search" title="#address_search" src="./readme-img/layout-2.png" width="250px">
 </p>
 
 
