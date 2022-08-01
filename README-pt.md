@@ -47,9 +47,9 @@ Nesse projeto o usuário é capaz de obter informações por meio do CEP.
 ## Layout
 
 <p align="center">
-  <img alt="consulta-cep" title="#consulta-cep" src="./readme-img/layout-1.png" width="250px">
+  <img alt="consulta_cep" title="#consulta_cep" src="./readme-img/layout-1.png" width="250px">
 
-  <img alt="consulta-cep" title="#consulta-cep" src="./readme-img/layout-2.png" width="250px">
+  <img alt="consulta_cep" title="#consulta_cep" src="./readme-img/layout-2.png" width="250px">
 </p>
 
 
