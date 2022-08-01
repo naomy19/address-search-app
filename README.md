@@ -21,6 +21,7 @@
  <a href="#about">About</a> •
  <a href="#features">Features</a> •
  <a href="#layout">Layout</a> • 
+ <a href="#resources">Resources</a> • 
  <a href="#author">Author</a> 
 </p>
 
@@ -54,7 +55,7 @@ In this project the user is able to find out the address informations through a 
 
 ---
 
-## Useful resources
+## Resources
 
 This project was made with the Online IDE Flutlab 
 - https://flutlab.io
