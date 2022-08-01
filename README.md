@@ -34,7 +34,7 @@
 
 ## About
 
-This Address search app was made with Flutter for a short course project.
+This address search app was made with Flutter for a short course project.
 In this project the user is able to find out the address informations through a brazilian zip code.
 
 ---
